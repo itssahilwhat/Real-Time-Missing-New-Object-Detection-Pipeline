@@ -1,0 +1,14 @@
+ultralytics
+torch
+torchvision
+opencv-python
+
+# Utilities
+numpy
+loguru
+tqdm
+
+# (Optional) report generation, metrics
+motmetrics
+filterpy
+tensorboard
